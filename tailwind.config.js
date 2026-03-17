@@ -17,6 +17,7 @@ module.exports = {
         'accent-foreground': 'hsl(var(--accent-foreground))',
         muted: 'hsl(var(--muted))',
         'muted-foreground': 'hsl(var(--muted-foreground))',
+        border: 'hsl(var(--muted) / 0.3)',
       },
       borderRadius: {
         lg: 'var(--radius)',
