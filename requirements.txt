@@ -3,4 +3,4 @@ numpy
 pandas
 matplotlib
 scikit-learn==1.5.2
-pickle
+
