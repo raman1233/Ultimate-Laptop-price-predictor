@@ -1,6 +1,15 @@
-streamlit
+# Data Manipulation & EDA
 numpy
 pandas
 matplotlib
-scikit-learn==1.5.2
+seaborn
 
+# Machine Learning & Preprocessing
+scikit-learn
+xgboost
+
+# Model Serialization
+joblib
+
+# Web Deployment
+streamlit
